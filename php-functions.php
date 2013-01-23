@@ -8,6 +8,8 @@ echo __FILE__;
 
 echo __LINE__;
 
+echo "tst";
+
 
 
 
